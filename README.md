@@ -32,13 +32,24 @@ Building a **mobile app using Flutter** — focusing on performance, beautiful U
 
 ## 🌐 Portfolio
 
-Check out my work here: [portfolio-seven-sigma-27.vercel.app](https://portfolio-seven-sigma-27.vercel.app)
+Check out my work here:  
+👉 [portfolio-seven-sigma-27.vercel.app](https://portfolio-seven-sigma-27.vercel.app)
 
 ---
 
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E1%9E%9F%E1%9E%BB%E1%9E%9C%E1%9E%8E%E1%9F%92%E1%9E%8E-%E1%9E%8A%E1%9F%81%E1%9E%9C%E1%9E%B8%E1%9E%8F-834a07324/)
+
+---
+
+## 📊 GitHub Stats
+
+![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sovandavid&show_icons=true&theme=tokyonight&hide_title=true)
+
+![David's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sovandavid&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sovandavid&layout=compact&theme=tokyonight)
 
 ---
 
@@ -49,4 +60,3 @@ When I’m not coding, I enjoy playing games and exploring new tech.
 ---
 
 _Thanks for visiting! ⭐️ If you like what you see, feel free to follow or connect._
-
