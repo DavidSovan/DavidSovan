@@ -45,12 +45,35 @@ Check out my work here:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
-</p>
+[![DavidSovan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidSovan&show_icons=true&theme=radical)](https://github.com/DavidSovan)
+
+## 📈 Activity Graph
+
+[![DavidSovan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DavidSovan&theme=dracula)](https://github.com/DavidSovan)
+
+## 🔥 Streak Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavidSovan&theme=dark)](https://github.com/DavidSovan)
+
+## 💻 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSovan&layout=compact&theme=vision-friendly-dark)](https://github.com/DavidSovan)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DavidSovan&theme=onedark)](https://github.com/DavidSovan)
+
+---
+
+<details>
+  <summary>📋 Recent GitHub Activity</summary>
+  
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
+
+</details>
+
+![Profile Views](https://komarev.com/ghpvc/?username=DavidSovan&color=blueviolet)
 
 ---
 
