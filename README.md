@@ -1,45 +1,52 @@
-Hi there, I'm David 👋
-About Me
-A Frontend Developer who enjoys creating clean UI, responsive, and user-friendly experiences. I love learning new things and growing my skills.
+# 👋 Hello, I'm David
 
-🔭 I'm currently working on a mobile app using Flutter
-💻 I specialize in creating responsive and user-friendly interfaces
-🌱 I'm always learning and improving my development skills
-💬 Ask me about frontend development, Flutter, or UI/UX design
-🎮 When I'm not coding, I enjoy gaming
-🌐 Portfolio: Check out my work
+🎯 *A Frontend Developer who enjoys creating clean UI, responsive, and user-friendly experiences.*  
+📚 *I love learning new things and growing my skills every day.*
 
-Skills
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</p>
-Featured Projects
-Flutter Mobile App
-A mobile application built with Flutter featuring responsive UI and smooth user experience.
-Frontend Portfolio
-My personal portfolio showcasing my frontend development projects and skills.
-Laravel Web Application
-A web application built with Laravel and MySQL with clean and modern UI design.
-GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
-</p>
-Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/%E1%9E%9F%E1%9E%BB%E1%9E%9C%E1%9E%8E%E1%9F%92%E1%9E%8E-%E1%9E%8A%E1%9F%81%E1%9E%9C%E1%9E%B8%E1%9E%8F-834a07324/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://portfolio-seven-sigma-27.vercel.app" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" alt="Portfolio Website" height="30" width="40" /></a>
-</p>
+---
 
-⭐️ From David
+## 🚀 Skills & Technologies
+
+**Languages:**  
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white) 
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) 
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Frameworks & Tools:**  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
+![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat&logo=laravel&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+
+---
+
+## 📱 Currently Working On
+
+Building a **mobile app using Flutter** — focusing on performance, beautiful UI, and smooth UX.
+
+---
+
+## 🌐 Portfolio
+
+Check out my work here: [portfolio-seven-sigma-27.vercel.app](https://portfolio-seven-sigma-27.vercel.app)
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E1%9E%9F%E1%9E%BB%E1%9E%9C%E1%9E%8E%E1%9F%92%E1%9E%8E-%E1%9E%8A%E1%9F%81%E1%9E%9C%E1%9E%B8%E1%9E%8F-834a07324/)
+
+---
+
+## 🎮 Fun Facts
+
+When I’m not coding, I enjoy playing games and exploring new tech.
+
+---
+
+_Thanks for visiting! ⭐️ If you like what you see, feel free to follow or connect._
+
