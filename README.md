@@ -45,11 +45,12 @@ Check out my work here:
 
 ## 📊 GitHub Stats
 
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sovandavid&show_icons=true&theme=tokyonight&hide_title=true)
-
-![David's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sovandavid&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sovandavid&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
