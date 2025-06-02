@@ -1,6 +1,6 @@
 # 👋 Hello, I'm David
 
-🎯 *A Frontend Developer who enjoys creating clean UI, responsive, and user-friendly experiences.*  
+🎯 *A person who enjoys coding, creating clean UI, responsive, and user-friendly experiences.*  
 📚 *I love learning new things and growing my skills every day.*
 
 ---
