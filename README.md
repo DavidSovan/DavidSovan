@@ -1,6 +1,6 @@
 # 👋 Hello, I'm David
 
-🎯 *A person who enjoys coding, creating clean UI, responsive, and user-friendly experiences.*  
+🎯 *I’m an IT student at the University of Cambodia who enjoys building mobile apps and bringing ideas to life. I’ve been learning Flutter for frontend development and Laravel for backend, along with Firebase, MySQL, and REST APIs.*  
 📚 *I love learning new things and growing my skills every day.*
 
 ---
