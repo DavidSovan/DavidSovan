@@ -1,6 +1,6 @@
 # 👋 Hello, I'm David
 
-🎯 *I’m an IT student at the University of Cambodia who enjoys building mobile apps and bringing ideas to life. I’ve been learning Flutter for frontend development and Laravel for backend, along with Firebase, MySQL, and REST APIs.*  
+🎯 *I study information technology and have a strong interest in problem-solving and software development. I like developing useful solutions, picking up new technologies, and honing my craft. I want to become a better full-stack developer and work on projects that make a difference.*  
 📚 *I love learning new things and growing my skills every day.*
 
 ---
@@ -42,47 +42,3 @@ Check out my work here:
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E1%9E%9F%E1%9E%BB%E1%9E%9C%E1%9E%8E%E1%9F%92%E1%9E%8E-%E1%9E%8A%E1%9F%81%E1%9E%9C%E1%9E%B8%E1%9E%8F-834a07324/)
-
----
-
-## 📊 GitHub Stats
-
-[![DavidSovan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidSovan&show_icons=true&theme=radical)](https://github.com/DavidSovan)
-
-## 📈 Activity Graph
-
-[![DavidSovan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DavidSovan&theme=dracula)](https://github.com/DavidSovan)
-
-## 🔥 Streak Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavidSovan&theme=dark)](https://github.com/DavidSovan)
-
-## 💻 Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSovan&layout=compact&theme=vision-friendly-dark)](https://github.com/DavidSovan)
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=DavidSovan&theme=onedark)](https://github.com/DavidSovan)
-
----
-
-<details>
-  <summary>📋 Recent GitHub Activity</summary>
-  
-  <!--START_SECTION:activity-->
-  <!--END_SECTION:activity-->
-
-</details>
-
-![Profile Views](https://komarev.com/ghpvc/?username=DavidSovan&color=blueviolet)
-
----
-
-## 🎮 Fun Facts
-
-When I’m not coding, I enjoy playing games and exploring new tech.
-
----
-
-_Thanks for visiting! ⭐️ If you like what you see, feel free to follow or connect._
