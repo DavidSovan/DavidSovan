@@ -1,10 +1,5 @@
 # 👋 Hello, I'm David
 
-🎯 *I study information technology and have a strong interest in problem-solving and software development. I like developing useful solutions, picking up new technologies, and honing my craft. I want to become a better full-stack developer and work on projects that make a difference.*  
-📚 *I love learning new things and growing my skills every day.*
-
----
-
 ## 🚀 Skills & Technologies
 
 **Languages:**  
@@ -24,12 +19,6 @@
 
 **Database:**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
----
-
-## 📱 Currently Working On
-
-Building a **mobile app using Flutter** — focusing on performance, beautiful UI, and smooth UX.
-
 ---
 
 ## 🌐 Portfolio
