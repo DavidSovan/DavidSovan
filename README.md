@@ -1,6 +1,6 @@
-# 👋 Hello, I'm David
+# Hello, I'm David
 
-## 🚀 Skills & Technologies
+## Skills & Technologies
 
 **Languages:**  
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white) 
